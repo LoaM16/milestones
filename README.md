@@ -1,4 +1,4 @@
-**Season 15 Milestone**
+**Season 15 Milestones**
 
 Usage
 1. install [node.js](https://nodejs.org/en)
@@ -8,4 +8,4 @@ Usage
 
 Info: use at your own risk!
 
-*Created by [jemFleaks](twitter.com/jemFleaks)*
+*Created by [jemFleaks](https://linktr.ee/jemFleaks)*
