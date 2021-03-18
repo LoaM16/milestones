@@ -1,9 +1,9 @@
-**Season 15 Milestones**
+**Season 16 Milestones**
 
 
 Example Output
 
-![Example Output Image](https://i.imgur.com/At8VnF4.png)
+![Example Output Image](https://i.imgur.com/v8p7lAK.png)
 
 
 Usage
