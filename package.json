@@ -1,18 +1,19 @@
 {
   "name": "milestone",
   "version": "1.0.0",
-  "description": "",
+  "description": "FN Season Milestones",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "jemFleaks",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
     "canvas": "^2.6.1",
     "canvas-txt": "^3.0.0",
-    "fnbr": "^1.4.1"
+    "fnbr": "^1.4.1",
+    "moment": "^2.24.0"
   }
 }

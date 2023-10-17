@@ -1,3 +1,16 @@
-kleines script für fortnite season 15 stempelkarten. hab sie ingame nicht gefunden und mir deshalb was gemacht. mag nicht perfekt sein, aber funktioniert. nutzung: node.js installieren, die *.bat dateien öffnen und anweisungen befolgen. nutzung auf eigene gefahr
+**Season XXX Milestones**
 
-erster nachtrag: trennstriche im diagramm gehen manchmal nicht bzw. sind falsch positioniert. ist mir aber egal, an sich tut das script seinen zweck
+Example Output
+
+![Example Output Image](https://i.imgur.com/yBffTXc.png)
+
+Usage
+
+1. install [node.js](https://nodejs.org/en)
+2. start "install.bat"
+3. start "start.bat"
+4. follow the instructions from the console
+
+Info: use at your own risk!
+
+_Created by [jemFleaks](https://twitter.com/jemFleaks)_
